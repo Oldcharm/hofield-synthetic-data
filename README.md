@@ -14,7 +14,7 @@ $$H = -\frac{1}{2}\sum_{i=1}^L\sum_{j=1}^L J_{ij}s_i s_j$$
 
 The weight matrix follows the Hebbian learning rule:
 $$J_{ij} = \frac{1}{L}\sum_{\mu=1}^n x^\mu_i x^\mu_j$$
-where $ x $ is a pre-generated pattern.
+where $x$ is a pre-generated pattern.
 
 ## Synthetic Data Generation
 
