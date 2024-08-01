@@ -16,6 +16,7 @@ The weight matrix follows the Hebbian learning rule:
 $$J_{ij} = \frac{1}{L}\sum_{\mu=1}^n x^\mu_i x^\mu_j$$
 where $x$ is a pre-generated pattern.
 
+$$x^\mu = +1, -1, -1, +1, -1, ...$$
 ## Synthetic Data Generation
 
 In the synthetic data:
